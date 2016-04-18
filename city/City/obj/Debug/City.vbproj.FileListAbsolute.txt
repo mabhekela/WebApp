@@ -1,0 +1,170 @@
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\City.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\City.pdb
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\City.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\Antlr3.Runtime.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.AspNet.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.Core.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OAuth.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OpenId.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\EntityFramework.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\Microsoft.Web.Infrastructure.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\System.Web.Optimization.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\System.Web.Providers.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\WebGrease.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\EntityFramework.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.Core.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OAuth.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OpenId.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\bin\DotNetOpenAuth.AspNet.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\obj\Debug\City.vbprojResolveAssemblyReference.cache
+c:\users\general\documents\visual studio 2012\Projects\City\City\obj\Debug\City.Resources.resources
+c:\users\general\documents\visual studio 2012\Projects\City\City\obj\Debug\City.vbproj.GenerateResource.Cache
+c:\users\general\documents\visual studio 2012\Projects\City\City\obj\Debug\City.dll
+c:\users\general\documents\visual studio 2012\Projects\City\City\obj\Debug\City.xml
+c:\users\general\documents\visual studio 2012\Projects\City\City\obj\Debug\City.pdb
+C:\Users\General\Desktop\City\City\bin\City.dll
+C:\Users\General\Desktop\City\City\bin\City.pdb
+C:\Users\General\Desktop\City\City\bin\City.xml
+C:\Users\General\Desktop\City\City\bin\Antlr3.Runtime.dll
+C:\Users\General\Desktop\City\City\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\General\Desktop\City\City\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.Core.dll
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\General\Desktop\City\City\bin\EntityFramework.dll
+C:\Users\General\Desktop\City\City\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\General\Desktop\City\City\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\General\Desktop\City\City\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\General\Desktop\City\City\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\General\Desktop\City\City\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\General\Desktop\City\City\bin\System.Web.Optimization.dll
+C:\Users\General\Desktop\City\City\bin\System.Web.Providers.dll
+C:\Users\General\Desktop\City\City\bin\WebGrease.dll
+C:\Users\General\Desktop\City\City\bin\EntityFramework.xml
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.Core.xml
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\General\Desktop\City\City\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\General\Desktop\City\City\obj\Debug\City.vbprojResolveAssemblyReference.cache
+C:\Users\General\Desktop\City\City\obj\Debug\City.Resources.resources
+C:\Users\General\Desktop\City\City\obj\Debug\City.vbproj.GenerateResource.Cache
+C:\Users\General\Desktop\City\City\obj\Debug\City.dll
+C:\Users\General\Desktop\City\City\obj\Debug\City.xml
+C:\Users\General\Desktop\City\City\obj\Debug\City.pdb
+C:\Users\GIft\Desktop\City\City\bin\City.dll
+C:\Users\GIft\Desktop\City\City\bin\City.pdb
+C:\Users\GIft\Desktop\City\City\bin\City.xml
+C:\Users\GIft\Desktop\City\City\bin\Antlr3.Runtime.dll
+C:\Users\GIft\Desktop\City\City\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GIft\Desktop\City\City\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.Core.dll
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\GIft\Desktop\City\City\bin\EntityFramework.dll
+C:\Users\GIft\Desktop\City\City\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\GIft\Desktop\City\City\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GIft\Desktop\City\City\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GIft\Desktop\City\City\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GIft\Desktop\City\City\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GIft\Desktop\City\City\bin\System.Web.Optimization.dll
+C:\Users\GIft\Desktop\City\City\bin\System.Web.Providers.dll
+C:\Users\GIft\Desktop\City\City\bin\WebGrease.dll
+C:\Users\GIft\Desktop\City\City\bin\EntityFramework.xml
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.Core.xml
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\GIft\Desktop\City\City\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\GIft\Desktop\City\City\obj\Debug\City.vbprojResolveAssemblyReference.cache
+C:\Users\GIft\Desktop\City\City\obj\Debug\City.Resources.resources
+C:\Users\GIft\Desktop\City\City\obj\Debug\City.vbproj.GenerateResource.Cache
+C:\Users\GIft\Desktop\City\City\obj\Debug\City.dll
+C:\Users\GIft\Desktop\City\City\obj\Debug\City.xml
+C:\Users\GIft\Desktop\City\City\obj\Debug\City.pdb
+G:\bluetooth\City\City\bin\City.dll
+G:\bluetooth\City\City\bin\City.pdb
+G:\bluetooth\City\City\bin\City.xml
+G:\bluetooth\City\City\bin\Antlr3.Runtime.dll
+G:\bluetooth\City\City\bin\AspNet.ScriptManager.jQuery.dll
+G:\bluetooth\City\City\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\bluetooth\City\City\bin\DotNetOpenAuth.AspNet.dll
+G:\bluetooth\City\City\bin\DotNetOpenAuth.Core.dll
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.dll
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.dll
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\bluetooth\City\City\bin\EntityFramework.dll
+G:\bluetooth\City\City\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\bluetooth\City\City\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\bluetooth\City\City\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\bluetooth\City\City\bin\Microsoft.ScriptManager.WebForms.dll
+G:\bluetooth\City\City\bin\Microsoft.Web.Infrastructure.dll
+G:\bluetooth\City\City\bin\System.Web.Optimization.dll
+G:\bluetooth\City\City\bin\System.Web.Providers.dll
+G:\bluetooth\City\City\bin\WebGrease.dll
+G:\bluetooth\City\City\bin\EntityFramework.xml
+G:\bluetooth\City\City\bin\DotNetOpenAuth.Core.xml
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.xml
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.xml
+G:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\bluetooth\City\City\bin\DotNetOpenAuth.AspNet.xml
+G:\bluetooth\City\City\obj\Debug\City.vbprojResolveAssemblyReference.cache
+G:\bluetooth\City\City\obj\Debug\City.Resources.resources
+G:\bluetooth\City\City\obj\Debug\City.vbproj.GenerateResource.Cache
+G:\bluetooth\City\City\obj\Debug\City.dll
+G:\bluetooth\City\City\obj\Debug\City.xml
+G:\bluetooth\City\City\obj\Debug\City.pdb
+H:\bluetooth\City\City\bin\City.dll
+H:\bluetooth\City\City\bin\City.pdb
+H:\bluetooth\City\City\bin\City.xml
+H:\bluetooth\City\City\bin\Antlr3.Runtime.dll
+H:\bluetooth\City\City\bin\AspNet.ScriptManager.jQuery.dll
+H:\bluetooth\City\City\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+H:\bluetooth\City\City\bin\DotNetOpenAuth.AspNet.dll
+H:\bluetooth\City\City\bin\DotNetOpenAuth.Core.dll
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.dll
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.dll
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\bluetooth\City\City\bin\EntityFramework.dll
+H:\bluetooth\City\City\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+H:\bluetooth\City\City\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\bluetooth\City\City\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\bluetooth\City\City\bin\Microsoft.ScriptManager.WebForms.dll
+H:\bluetooth\City\City\bin\Microsoft.Web.Infrastructure.dll
+H:\bluetooth\City\City\bin\System.Web.Optimization.dll
+H:\bluetooth\City\City\bin\System.Web.Providers.dll
+H:\bluetooth\City\City\bin\WebGrease.dll
+H:\bluetooth\City\City\bin\EntityFramework.xml
+H:\bluetooth\City\City\bin\DotNetOpenAuth.Core.xml
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.xml
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.xml
+H:\bluetooth\City\City\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\bluetooth\City\City\bin\DotNetOpenAuth.AspNet.xml
+H:\bluetooth\City\City\obj\Debug\City.vbprojResolveAssemblyReference.cache
+H:\bluetooth\City\City\obj\Debug\City.Resources.resources
+H:\bluetooth\City\City\obj\Debug\City.vbproj.GenerateResource.Cache
+H:\bluetooth\City\City\obj\Debug\City.dll
+H:\bluetooth\City\City\obj\Debug\City.xml
+H:\bluetooth\City\City\obj\Debug\City.pdb
